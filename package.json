@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "apify": "^1.2.1"
+    "apify": "^1.2.1",
+    "puppeteer": "^13.1.3"
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
