@@ -1,6 +1,8 @@
 {
-	"name": "actor-quick-start",
+	"name": "linkedin-companies",
 	"version": "0.0",
 	"buildTag": "latest",
-	"env": null
+	"env": {
+		"MY_SECRET_PASSWORD": "@mySecretPassword"
+	}
 }
